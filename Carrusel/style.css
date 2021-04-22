@@ -1,0 +1,20 @@
+.a{
+    background-color: rgba(0, 0, 0, 0.199);
+    color: azure;
+    padding: 5px;
+    border: white solid 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a:hover{
+    background-color: azure;
+    color: black;
+    border-color: blue;
+}
+
+.izq{
+    float: left;
+}
+
+.der{
+    float: right;
+}
